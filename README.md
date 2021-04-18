@@ -18,4 +18,4 @@
 #### Non Vine reviews that were 5 stars: 59.42%
 #### Vine Reviews that were 5 stars: 0.06%
 
-## Summary: There is No positivity bias in the reviews because of the paid campaign. The paid reviews are a very small number as compared to the unpaid 5 star reviews.
+## Summary: There is No positivity bias in the reviews because of the paid Vine campaign. The paid reviews are a very small number as compared to the unpaid 5 star reviews.
